@@ -1,1 +1,3 @@
 # Hyperskill
+
+Hyperskill is an online learning platform that focuses on teaching programming and computer science concepts through project-based learning. It offers courses and tracks that cover various programming languages and topics, including object-oriented programming, data structures, algorithms, and more. The platform emphasizes hands-on practice by allowing learners to build real-world projects as they progress through the curriculum.
